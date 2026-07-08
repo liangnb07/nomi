@@ -1,2 +1,13 @@
-# nomi
-nomi: tracking of wanted purchase items and current money based on income and spending
+# nomi!!
+
+根据用户当前拥有的资金量追踪消费愿望清单。
+
+## 功能：
+
+- 双标签页：
+
+- 购物：查看用户想要购买或考虑购买的商品列表。
+
+- 资金：允许用户追踪当前资金状况，并考虑收入和债务。
+
+- 人民币和美元切换功能。
